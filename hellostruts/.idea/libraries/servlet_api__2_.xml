@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="servlet-api (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-tree.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ognl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/xwork-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
